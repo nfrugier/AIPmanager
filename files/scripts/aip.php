@@ -4,9 +4,9 @@ $action = $_POST['action'];
 $skill = $_POST['skill'];
 $days = $_POST['days'];
 
-$characters = json_decode(file_get_contents("characters.json"),true);
+$characters = json_decode(file_get_contents("files/data/characters.json"),true);
 if (!in_array($name, $characters['characters'])) {
-    echo "Nom inconnu </br>Veuillez recommencer <a href='index.html' >Retour</a>";
+    echo "Nom inconnu </br>Veuillez recommencer <a href='../../index.html' >Retour</a>";
     return;
 }
 
