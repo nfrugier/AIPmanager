@@ -1,25 +1,24 @@
 {
   "nom": "Brutor",
-  "competences": [
+  "competences":
     {
-      "athletisme": 5,
       "acrobatie": 1,
-      "escamotage": 1,
-      "discretion": 1,
       "arcanes": -1,
-      "histoire": -1,
-      "investigation": -1,
-      "nature": -1,
-      "religion": -1,
+      "athletisme": 5,
+      "discretion": 1,
       "dressage": 2,
-      "perception": 5,
-      "medecine": 2,
-      "perspicacite": 2,
-      "survie": 5,
+      "escamotage": 1,
+      "histoire": -1,
       "intimidation": 0,
+      "investigation": -1,
+      "medecine": 2,
+      "nature": -1,
+      "perception": 5,
+      "perspicacite": 2,
       "persuasion": 0,
+      "religion": -1,
       "representation": 0,
+      "survie": 5,
       "tromperie": 0
     }
-  ]
 }
