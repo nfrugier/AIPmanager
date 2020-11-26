@@ -6,9 +6,11 @@ Projet de gestion informatique d'AIP pour une campagne D&D5 West Marches.
 * Remplir les JSON avec les infos des personnages
 
 ### TODO
-* Meilleur formattage du formulaire
-* Dropdown avec les possibilités
+* Meilleur formattage du formulaire (en cours)
+* Dropdown avec les possibilités => 1/2
 * Ajax pour dynamiser le formulaire
+* Envoie du résultat par mail au MJ
+* Ajout d'un "Créateur de Personnage"
 
 ### Informations pratiques
 ##### Pour démarrer un serveur PHP local sur Windows
