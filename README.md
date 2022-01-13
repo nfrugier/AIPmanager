@@ -1,5 +1,6 @@
 # Gestionnaire d'AIP
 Projet de gestion informatique d'AIP pour une campagne D&D5 West Marches.
+AIP : Actions Inter Parties
 
 ### Pré-requis
 * Un serveur PHP
